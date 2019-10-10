@@ -24,4 +24,4 @@ https://github.com/shuiblue/INTRUDE
 
 | repo |PR1   |PR2   |
 |---|---|---|
-| matomo-org/matomo|[14137] (https://github.com/matomo-org/matomo/pull/14137)|[14975](https://github.com/matomo-org/matomo/pull/14975)|  
+| matomo-org/matomo|[14137](https://github.com/matomo-org/matomo/pull/14137)|[14975](https://github.com/matomo-org/matomo/pull/14975)|  
