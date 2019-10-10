@@ -12,7 +12,7 @@ L. Ren, S. Zhou, C. Kästner, and A. Wąsowski. Identifying Redundancies in Fork
 
 
 # DuplicatePR Bot Team
-We are researchers at Carnegie Mellon University developing a bot to monitor GitHub projects and alert project maintainers to potentially duplicate pull requests. [Shurui Zhou](https://www.cs.cmu.edu/~shuruiz) is a Ph.D. student studying under Professor [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/). Annika Esau and [Luyao Ren](http://luyaoren.com/) are undergraduate REU student.
+We are researchers at Carnegie Mellon University developing a bot to monitor GitHub projects and alert project maintainers to potentially duplicate pull requests. [Shurui Zhou](https://www.cs.cmu.edu/~shuruiz) is a Ph.D. student studying under Professor [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/). Annika Esau and [Luyao Ren](http://luyaoren.com/) are undergraduate REU students.
 
 INTRUDE comes out of an NSF-funded research project at Carnegie Mellon University, identfying potentially redundant development in open-source software development. INTRUDE is open source and hosted for the community. We would love to hear your ideas and feedback. Explore the source or open an issue.
 
