@@ -19,3 +19,9 @@ INTRUDE comes out of an NSF-funded research project at Carnegie Mellon Universit
 # Source Code Repository
 
 https://github.com/shuiblue/INTRUDE
+
+# Duplicate PR pairs detected:
+
+| repo |PR1   |PR2   |
+|---|---|---|
+| matomo-org/matomo|[14137] (https://github.com/matomo-org/matomo/pull/14137)|[14975](https://github.com/matomo-org/matomo/pull/14975)|  
