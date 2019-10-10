@@ -20,7 +20,7 @@ INTRUDE comes out of an NSF-funded research project at Carnegie Mellon Universit
 
 https://github.com/shuiblue/INTRUDE
 
-# Duplicate PR pairs detected:
+# Duplicate PR pairs succesfully detected:
 
 | repo |PR1   |PR2   |
 |---|---|---|
