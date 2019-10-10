@@ -25,3 +25,14 @@ https://github.com/shuiblue/INTRUDE
 | repo |PR1   |PR2   |
 |---|---|---|
 | matomo-org/matomo|[14137](https://github.com/matomo-org/matomo/pull/14137)|[14975](https://github.com/matomo-org/matomo/pull/14975)|  
+|mrdoob/three.js|[10597](https://github.com/mrdoob/three.js/pull/10597)|[13706](https://github.com/mrdoob/three.js/pull/13706)|
+|mrdoob/three.js|[6203](https://github.com/mrdoob/three.js/pull/6203)|[6301](https://github.com/mrdoob/three.js/pull/6301)|
+|spring-projects/spring-framework|[1695](https://github.com/spring-projects/spring-framework/pull/1695)|[1817](https://github.com/spring-projects/spring-framework/pull/1817)|
+|spring-projects/spring-framework|[1492](https://github.com/spring-projects/spring-framework/pull/1492)|[1628](https://github.com/spring-projects/spring-framework/pull/1628)|
+|spring-projects/spring-framework|[1218](https://github.com/spring-projects/spring-framework/pull/1218)|[1653](https://github.com/spring-projects/spring-framework/pull/1653)|
+|spring-projects/spring-framework|[569](https://github.com/spring-projects/spring-framework/pull/569)|[566](https://github.com/spring-projects/spring-framework/pull/566)|
+|spring-projects/spring-framework|[758](https://github.com/spring-projects/spring-framework/pull/758)|[1827](https://github.com/spring-projects/spring-framework/pull/1827)|
+|hashicorp/terraform|[18186](https://github.com/hashicorp/terraform/pull/18186)|[18296](https://github.com/hashicorp/terraform/pull/18296)|
+|cocos2d/cocos2d-x|[14883](https://github.com/cocos2d/cocos2d-x/pull/14883)|[13687](https://github.com/cocos2d/cocos2d-x/pull/13687)|
+|cocos2d/cocos2d-x|[14794](https://github.com/cocos2d/cocos2d-x/pull/14794)|[7565](https://github.com/cocos2d/cocos2d-x/pull/7565)|
+|facebook/react|[12760](https://github.com/facebook/react/pull/12760)|[13169](https://github.com/facebook/react/pull/13169)|
