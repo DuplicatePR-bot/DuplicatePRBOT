@@ -20,7 +20,7 @@ L. Ren, S. Zhou, C. Kästner, and A. Wąsowski. Identifying Redundancies in Fork
 |---|---|---|
 | matomo-org/matomo|[14137](https://github.com/matomo-org/matomo/pull/14137)|[14975](https://github.com/matomo-org/matomo/pull/14975)|  
 |mrdoob/three.js|[10597](https://github.com/mrdoob/three.js/pull/10597)|[13706](https://github.com/mrdoob/three.js/pull/13706)|
-|mrdoob/three.js|[6203](https://github.com/mrdoob/three.js/pull/6203)|[6301](https://github.com/mrdoob/three.js/pull/6301)|
+|mrdoob/three.js|[6230](https://github.com/mrdoob/three.js/pull/6230)|[6301](https://github.com/mrdoob/three.js/pull/6301)|
 |spring-projects/spring-framework|[1695](https://github.com/spring-projects/spring-framework/pull/1695)|[1817](https://github.com/spring-projects/spring-framework/pull/1817)|
 |spring-projects/spring-framework|[1492](https://github.com/spring-projects/spring-framework/pull/1492)|[1628](https://github.com/spring-projects/spring-framework/pull/1628)|
 |spring-projects/spring-framework|[1218](https://github.com/spring-projects/spring-framework/pull/1218)|[1653](https://github.com/spring-projects/spring-framework/pull/1653)|
